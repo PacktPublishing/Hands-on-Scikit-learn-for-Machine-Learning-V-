@@ -9,12 +9,14 @@ By the end of the course, you will have a set of ML problem-solving tools in the
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Explore the lethal combination of Data Mining and Machine Learning to hone your model-building skills and improve your models 
-<LI>Understand the inner workings of your models 
-<LI>Get to grips with three ways in which you can decipher how machine learning models can be interpreted 
-<LI>Derive worthwhile insights from your data by developing efficient predictive models to predict future results accurately 
-<LI>Maximize your productivity by analyzing your models and interpreting their accuracy in a well organized manner 
-<LI>Combine the results of two or more models </LI></UL></DIV>
+<LI>Tackle real-world problems in Machine Learning through a structured process using Scikit-learn
+<LI>Achieve substantially more in less time and with much less code by leveraging the power and simplicity of Scikit-learn
+<LI>Develop a thorough understanding of core predictive analytics with regression, classification, and unsupervised learning such as clustering and PCA
+<LI>Create ensemble models with Random-Forest and Gradient-boosting methods and see your model performance improve drastically
+<LI>Build a portfolio of tools and techniques that can readily be applied to your own projects
+<LI>Discover the intuition behind contemporary Machine Learning models and algorithms without going into deep mathematical details
+<LI>Develop the ability to evaluate and improve the accuracy and performance of Machine Learning models
+<LI>Explore the foundations of text analytics and develop a set of tools to apply to your common text-analysis tasks </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
