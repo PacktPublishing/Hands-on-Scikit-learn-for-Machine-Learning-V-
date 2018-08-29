@@ -22,16 +22,11 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 If you are a software developer, machine learning engineer, or data analyst and want to use Scikit-learn for different Machine Learning and analytics tasks, this course is for you. You need to have a very basic understanding of Machine Learning and Data Analytics. However, no knowledge of Scikit-learn is needed. Python programming knowledge and a basic understanding of Numpy and the Pandas library are assumed.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Minimum Hardware Requirements
 
-For successful completion of this course, students will require the computer systems with at least the following:
-
-
-OS: Windows 7 SP1+, 8, 10, 64-bit versions only; macOS 10.11+
-
-Processor: SSE2 instruction set support.
-
-Storage: Graphics card with DX10 (shader model 4.0) capabilities.
+For successful completion of this course, students will require the computer systems with at least the following:<br/>
+<LI>OS: Windows 7 SP1+, 8, 10, 64-bit versions only; macOS 10.11+
+<LI>Processor: SSE2 instruction set support.
+<LI>Storage: Graphics card with DX10 (shader model 4.0) capabilities.</LI>
 
 ## Related Products
 * [Hands-On Machine Learning with Python and Scikit-Learn [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-python-and-scikit-learn-video?utm_source=github&utm_medium=repository&utm_campaign=9781788991056)
